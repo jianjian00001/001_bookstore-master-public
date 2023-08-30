@@ -1,0 +1,2 @@
+# bookstore-master-public_001
+基于springboot的bookstore电商书城系统 - 后台主要是springboot+mybatis+shiro+jsp，前端界面主要使用bootstrap框架搭建，并使用了ueditor富文本编辑器、highcharts图表库
