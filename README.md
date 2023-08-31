@@ -1,12 +1,11 @@
-**完整代码收费可以加qq  931708230 或者加微信  ynwwxid**
+### 作者QQ：1556708905(支持修改、 部署调试、 支持代做毕设)
 
-**接毕业设计和论文**
+#### 支持代做任何毕设论、接网站建设、小程序、H5、APP、各种系统等
+
+**毕业设计所有选题地址 [https://github.com/zhengjianzhong0107/allProject](https://github.com/zhengjianzhong0107/allProject)**
 
 **如果图片加载不出来可以去博客看
 [https://blog.csdn.net/2303_76227485/article/details/128637345](https://blog.csdn.net/2303_76227485/article/details/128637345)**
-
-**毕业设计所有选题地址
-[https://github.com/ynwynw/allProject](https://github.com/ynwynw/allProject)**
 
 ## 基于springboot的电商书城系统(源代码+数据库)
 
@@ -41,9 +40,6 @@
 
 - bootstrap
 
-  
-
-
 ## 三、环境介绍
 
 基础环境 :IDEA/eclipse， JDK 1.8，Mysql5.7及以上，Maven
@@ -72,26 +68,24 @@
 
 ![contents](./picture/picture12.png)
 
-
-
 ## 五、浏览地址
 
-  - 前台地址  http://localhost:8083/   账号： xiaoxiao   密码： admin
-  - 后台地址(管理员登录) http://localhost:8083/page/login  账号： admin  密码：admin
+- 前台地址  http://localhost:8083/   账号： xiaoxiao   密码： admin
+- 后台地址(管理员登录) http://localhost:8083/page/login  账号： admin  密码：admin
 
 ## 依赖环境
 
-  - jdk1.8,maven,mysql
+- jdk1.8,maven,mysql
 
-  - 注意事项
-    - 在数据库中创建名为`bookstore`数据库,然后运行项目的`resource`目录下的sql脚本，记得在`application.properties`改数据库配置信息
-
-    - 登录系统的账号和密码，请自行查看数据库下的`user`表 (管理员账号：admin 密码：123)
-
-    - `application.properties`中的邮箱配置要改成自己，否则不能注册系统账号
-
-    - 使用沙箱环境的支付宝才能扫码支付，`application.properties`中的my.ip要改成自己，有项目名还要加项目名，否则支付成功回调出错 
-
+- 注意事项
+  
+  - 在数据库中创建名为`bookstore`数据库,然后运行项目的`resource`目录下的sql脚本，记得在`application.properties`改数据库配置信息
+  
+  - 登录系统的账号和密码，请自行查看数据库下的`user`表 (管理员账号：admin 密码：123)
+  
+  - `application.properties`中的邮箱配置要改成自己，否则不能注册系统账号
+  
+  - 使用沙箱环境的支付宝才能扫码支付，`application.properties`中的my.ip要改成自己，有项目名还要加项目名，否则支付成功回调出错 
 
 ## 六、安装教程
 
@@ -102,13 +96,5 @@
 3. 进入src/main/resources修改application.properties里面的数据库配置，`application.properties`中的邮箱配置要改成自己，否则不能注册系统账号，使用沙箱环境的支付宝才能扫码支付，`application.properties`中的my.ip要改成自己，有项目名还要加项目名，否则支付成功回调出错 。
 
 4. 启动项目后端项目
-
-   
-
-**需要完整代码可以加qq  931708230 或者加微信 ynwwxid**
-
-**需要完整代码可以加qq  931708230 或者加微信  ynwwxid**
-
-
 
 
