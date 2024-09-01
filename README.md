@@ -1,10 +1,17 @@
-### 作者QQ：1556708905(支持修改、 部署调试、 支持代做毕设)
+---
+### 👉作者QQ ：1556708905 微信：zheng0123Long (支持修改、部署调试、定制毕设)
 
-#### 支持代做任何毕设论、接网站建设、小程序、H5、APP、各种系统等
+### 👉接网站建设、小程序、H5、APP、各种系统等
+
+### 👉选题+开题报告+任务书+程序定制+安装调试+ppt 都可以做
+---
+
+
 
 **毕业设计所有选题地址 [https://github.com/zhengjianzhong0107/allProject](https://github.com/zhengjianzhong0107/allProject)**
 
-**如果图片加载不出来可以去博客看
+如果图片加载不出来可以去博客看
+
 [https://blog.csdn.net/2303_76227485/article/details/128637345](https://blog.csdn.net/2303_76227485/article/details/128637345)**
 
 ## 基于springboot的电商书城系统(源代码+数据库)
@@ -96,5 +103,3 @@
 3. 进入src/main/resources修改application.properties里面的数据库配置，`application.properties`中的邮箱配置要改成自己，否则不能注册系统账号，使用沙箱环境的支付宝才能扫码支付，`application.properties`中的my.ip要改成自己，有项目名还要加项目名，否则支付成功回调出错 。
 
 4. 启动项目后端项目
-
-
